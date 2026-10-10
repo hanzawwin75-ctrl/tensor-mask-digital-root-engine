@@ -10,5 +10,5 @@ An algorithmic validation engine using $8 \times 8$ Tensor Masking and Modulo-9 
 ## Direct Inquiries & Collaboration
 For algorithmic licensing, technical collaboration, or direct opportunities:
 - **Email**: [Your Email Here]
-- **LinkedIn**: [Your LinkedIn Profile Here]
+- **LinkedIn**: 
 - 
